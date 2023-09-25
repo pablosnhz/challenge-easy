@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.container .contenido{
+    border: 3px solid black;
+    margin: 0 33rem;
+    border-radius: 10px;
+}
+
+.container img {
+    height: 260px;
+    border-radius: 10px;
+}
+
+.attribution {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
