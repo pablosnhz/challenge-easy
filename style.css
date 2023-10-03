@@ -9,21 +9,29 @@
     align-items: center;
     height: 100vh;
     text-align: center;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;;
+    background-color: hsl(212, 45%, 89%);
 }
 
 .container .contenido{
     border: 3px solid black;
     margin: 0 33rem;
+    border: transparent;
     border-radius: 10px;
+    background-color: hsl(0, 0%, 100%)
 }
 
 .container img {
+    padding: 15px;
     height: 260px;
     border-radius: 10px;
+    
 }
 
 .attribution {
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
